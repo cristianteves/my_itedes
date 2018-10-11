@@ -1,0 +1,11 @@
+/home/cristian/src/lenguajes/dotNet/bin/Debug/netcoreapp2.1/dotNet.deps.json
+/home/cristian/src/lenguajes/dotNet/bin/Debug/netcoreapp2.1/dotNet.runtimeconfig.json
+/home/cristian/src/lenguajes/dotNet/bin/Debug/netcoreapp2.1/dotNet.runtimeconfig.dev.json
+/home/cristian/src/lenguajes/dotNet/bin/Debug/netcoreapp2.1/dotNet.dll
+/home/cristian/src/lenguajes/dotNet/bin/Debug/netcoreapp2.1/dotNet.pdb
+/home/cristian/src/lenguajes/dotNet/obj/Debug/netcoreapp2.1/dotNet.csprojAssemblyReference.cache
+/home/cristian/src/lenguajes/dotNet/obj/Debug/netcoreapp2.1/dotNet.csproj.CoreCompileInputs.cache
+/home/cristian/src/lenguajes/dotNet/obj/Debug/netcoreapp2.1/dotNet.AssemblyInfoInputs.cache
+/home/cristian/src/lenguajes/dotNet/obj/Debug/netcoreapp2.1/dotNet.AssemblyInfo.cs
+/home/cristian/src/lenguajes/dotNet/obj/Debug/netcoreapp2.1/dotNet.dll
+/home/cristian/src/lenguajes/dotNet/obj/Debug/netcoreapp2.1/dotNet.pdb
