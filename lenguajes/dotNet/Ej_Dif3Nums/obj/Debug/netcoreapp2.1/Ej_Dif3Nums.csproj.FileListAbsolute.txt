@@ -1,0 +1,11 @@
+/home/cristian/src/my_itedes/lenguajes/dotNet/Ej_Dif3Nums/bin/Debug/netcoreapp2.1/Ej_Dif3Nums.deps.json
+/home/cristian/src/my_itedes/lenguajes/dotNet/Ej_Dif3Nums/bin/Debug/netcoreapp2.1/Ej_Dif3Nums.runtimeconfig.json
+/home/cristian/src/my_itedes/lenguajes/dotNet/Ej_Dif3Nums/bin/Debug/netcoreapp2.1/Ej_Dif3Nums.runtimeconfig.dev.json
+/home/cristian/src/my_itedes/lenguajes/dotNet/Ej_Dif3Nums/bin/Debug/netcoreapp2.1/Ej_Dif3Nums.dll
+/home/cristian/src/my_itedes/lenguajes/dotNet/Ej_Dif3Nums/bin/Debug/netcoreapp2.1/Ej_Dif3Nums.pdb
+/home/cristian/src/my_itedes/lenguajes/dotNet/Ej_Dif3Nums/obj/Debug/netcoreapp2.1/Ej_Dif3Nums.csprojAssemblyReference.cache
+/home/cristian/src/my_itedes/lenguajes/dotNet/Ej_Dif3Nums/obj/Debug/netcoreapp2.1/Ej_Dif3Nums.csproj.CoreCompileInputs.cache
+/home/cristian/src/my_itedes/lenguajes/dotNet/Ej_Dif3Nums/obj/Debug/netcoreapp2.1/Ej_Dif3Nums.AssemblyInfoInputs.cache
+/home/cristian/src/my_itedes/lenguajes/dotNet/Ej_Dif3Nums/obj/Debug/netcoreapp2.1/Ej_Dif3Nums.AssemblyInfo.cs
+/home/cristian/src/my_itedes/lenguajes/dotNet/Ej_Dif3Nums/obj/Debug/netcoreapp2.1/Ej_Dif3Nums.dll
+/home/cristian/src/my_itedes/lenguajes/dotNet/Ej_Dif3Nums/obj/Debug/netcoreapp2.1/Ej_Dif3Nums.pdb

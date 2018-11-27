@@ -1,0 +1,11 @@
+/home/cristian/src/my_itedes/lenguajes/dotNet/ejercicio1/obj/Debug/netcoreapp2.1/ejercicio1.csprojAssemblyReference.cache
+/home/cristian/src/my_itedes/lenguajes/dotNet/ejercicio1/obj/Debug/netcoreapp2.1/ejercicio1.csproj.CoreCompileInputs.cache
+/home/cristian/src/my_itedes/lenguajes/dotNet/ejercicio1/obj/Debug/netcoreapp2.1/ejercicio1.AssemblyInfoInputs.cache
+/home/cristian/src/my_itedes/lenguajes/dotNet/ejercicio1/obj/Debug/netcoreapp2.1/ejercicio1.AssemblyInfo.cs
+/home/cristian/src/my_itedes/lenguajes/dotNet/ejercicio1/bin/Debug/netcoreapp2.1/ejercicio1.deps.json
+/home/cristian/src/my_itedes/lenguajes/dotNet/ejercicio1/bin/Debug/netcoreapp2.1/ejercicio1.runtimeconfig.json
+/home/cristian/src/my_itedes/lenguajes/dotNet/ejercicio1/bin/Debug/netcoreapp2.1/ejercicio1.runtimeconfig.dev.json
+/home/cristian/src/my_itedes/lenguajes/dotNet/ejercicio1/bin/Debug/netcoreapp2.1/ejercicio1.dll
+/home/cristian/src/my_itedes/lenguajes/dotNet/ejercicio1/bin/Debug/netcoreapp2.1/ejercicio1.pdb
+/home/cristian/src/my_itedes/lenguajes/dotNet/ejercicio1/obj/Debug/netcoreapp2.1/ejercicio1.dll
+/home/cristian/src/my_itedes/lenguajes/dotNet/ejercicio1/obj/Debug/netcoreapp2.1/ejercicio1.pdb

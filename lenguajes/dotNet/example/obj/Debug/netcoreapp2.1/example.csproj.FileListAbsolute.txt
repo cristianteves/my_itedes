@@ -1,0 +1,11 @@
+/home/cristian/src/my_itedes/lenguajes/dotNet/example/obj/Debug/netcoreapp2.1/example.csprojAssemblyReference.cache
+/home/cristian/src/my_itedes/lenguajes/dotNet/example/obj/Debug/netcoreapp2.1/example.csproj.CoreCompileInputs.cache
+/home/cristian/src/my_itedes/lenguajes/dotNet/example/obj/Debug/netcoreapp2.1/example.AssemblyInfoInputs.cache
+/home/cristian/src/my_itedes/lenguajes/dotNet/example/obj/Debug/netcoreapp2.1/example.AssemblyInfo.cs
+/home/cristian/src/my_itedes/lenguajes/dotNet/example/bin/Debug/netcoreapp2.1/example.deps.json
+/home/cristian/src/my_itedes/lenguajes/dotNet/example/bin/Debug/netcoreapp2.1/example.runtimeconfig.json
+/home/cristian/src/my_itedes/lenguajes/dotNet/example/bin/Debug/netcoreapp2.1/example.runtimeconfig.dev.json
+/home/cristian/src/my_itedes/lenguajes/dotNet/example/bin/Debug/netcoreapp2.1/example.dll
+/home/cristian/src/my_itedes/lenguajes/dotNet/example/bin/Debug/netcoreapp2.1/example.pdb
+/home/cristian/src/my_itedes/lenguajes/dotNet/example/obj/Debug/netcoreapp2.1/example.dll
+/home/cristian/src/my_itedes/lenguajes/dotNet/example/obj/Debug/netcoreapp2.1/example.pdb
